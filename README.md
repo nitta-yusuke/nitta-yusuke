@@ -6,7 +6,9 @@
 ![TypeScriptバッジ](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Vue3バッジ](https://img.shields.io/badge/Vue-3-green)
 
+<!--
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitta-yusuke&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+-->
 
 <!--
 **nitta-yusuke/nitta-yusuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
